@@ -15,9 +15,10 @@
 
 ## 📸 Preview
 
-> Add a screenshot of your project as `preview.png` in the repo
 
-![Netflix Clone Screenshot](https://sahilrajput47.github.io/Netflix-Clone/preview.png)
+
+<img src="https://github.com/SahilRajput47/Netflix-Clone/blob/f2921fe7a331c98a46580d93beeb2f85dff2eca2/s1.png">
+<img src="https://github.com/SahilRajput47/Netflix-Clone/blob/f2921fe7a331c98a46580d93beeb2f85dff2eca2/s2.png">
 
 ---
 
