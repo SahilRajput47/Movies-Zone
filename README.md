@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sahilrajput47.github.io/Netflix-Demo-Ui/" target="_blank">
+  <a href="https://sahilrajput47.github.io/Netflix-Ui/" target="_blank">
     <img src="https://img.shields.io/badge/-Live%20Demo-red?style=for-the-badge&logo=netflix&logoColor=white" alt="Live Demo" />
   </a>
 </p>
